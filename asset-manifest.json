@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/platzi-intro-react-base/static/css/main.95466a6a.css",
+    "main.js": "/platzi-intro-react-base/static/js/main.f37df8a1.js",
+    "index.html": "/platzi-intro-react-base/index.html",
+    "main.95466a6a.css.map": "/platzi-intro-react-base/static/css/main.95466a6a.css.map",
+    "main.f37df8a1.js.map": "/platzi-intro-react-base/static/js/main.f37df8a1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.95466a6a.css",
+    "static/js/main.f37df8a1.js"
+  ]
+}
